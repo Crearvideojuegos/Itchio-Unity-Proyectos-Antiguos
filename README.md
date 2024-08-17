@@ -13,7 +13,7 @@
 
 ## Sobre mi
 
-![Image Capture](https://crearmisvideojuegos.com/github-images/logo-web.jpg)
+![Image Capture](https://crearmisvideojuegos.com/github-images/logo-web.png)
 
 Me llamo Alex y te doy la bienvenida a mi repositorio de Github. Soy un entusiasta Gamedev y Gamedesigner y en este repositorio encontraras principalmente varios proyectos realizados en Unity, los cuales he subido por motivos educacionales. Recuerda que puedes ver mas sobre mis proyectos en mis redes sociales que tienes mas arriba.
 
