@@ -54,7 +54,7 @@ Versión 1.0
 
 ## Creditos externos
 
-Los sprites de la galeria de tiro, el cinquillo y los zombis de No Escapen han sido obtenidos de la web de [Kenney.nl](https://www.kenney.nl/).
+Los sprites de la galeria de tiro, el cinquillo y los zombis de No Escape han sido obtenidos de la web de [Kenney.nl](https://www.kenney.nl/).
 
 ## Unity Version
 
